@@ -1,2 +1,4 @@
 # hello-world
-My first repository
+Hi!
+
+Monish here, on a journey to master programming.
